@@ -7,7 +7,9 @@
 
 A premium, highly interactive single-page application (SPA) built for organizing, discovering, and budgeting your next dream vacation. Engineered without the need for expensive API keys, this platform leverages open-source OpenStreetMap (OSM) tools and dynamic algorithmic fallbacks to deliver a bulletproof presentation-ready experience.
 
-![Travel Advisor Hero Banner](https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2621&auto=format&fit=crop)
+![Uploading image.png…]()
+
+
 
 ---
 
